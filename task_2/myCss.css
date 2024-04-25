@@ -1,0 +1,25 @@
+body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+
+.last-update,
+.entering-amount-conteiner
+{
+  padding-bottom: 20px;
+}
+
+.entering-amount-conteiner
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+.entering-amount-conteiner input
+{
+  width: 100px;
+}
